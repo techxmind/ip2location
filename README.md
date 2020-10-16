@@ -1,3 +1,12 @@
+# 命令行
+```
+go get github.com/techxmind/ip2location/cmd/ip2loc
+
+ip2loc -h
+ip2loc 113.143.136.174 123.15.145.134
+```
+
+# 示例
 ```
 import (
     "fmt"
